@@ -8,5 +8,26 @@
 - 👯 I’m looking to collaborate on NGO'S
 - 😄 Pronouns: He/Him
 
-[![Structural](https://skillicons.dev/icons?i=java,spring,angular,figma,git,github,vscode,eclipse&theme=dark)](https://skillicons.dev)
+### My Skills:
+
+
+> Programming Language:
+
+[![Structural](https://skillicons.dev/icons?i=java&theme=dark)](https://skillicons.dev)
+
+> Frontend Development:
+
+[![Structural](https://skillicons.dev/icons?i=angular,html,css&theme=dark)](https://skillicons.dev)
+
+> Backend Development:
+
+[![Structural](https://skillicons.dev/icons?i=spring&theme=dark)](https://skillicons.dev)
+
+> Database:
+
+[![Structural](https://skillicons.dev/icons?i=postgres)](https://skillicons.dev)
+
+> UI/UX Softwares:
+
+[![Structural](https://skillicons.dev/icons?i=figma,photoshop)](https://skillicons.dev)
 
